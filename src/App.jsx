@@ -1,10 +1,11 @@
-
 import './App.scss';
+import Navbar from './components/Navbar.jsx';
 
 function App() {
   return (
     <div className="App">
-      <h1>asdasda</h1>
+      <Navbar />
+      
     </div>
   );
 }
